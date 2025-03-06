@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yo. Named Simon. Currently learning more about coding to hopefully one day be able to create the weird ideas I have.
 
 - 🌱 I’m currently learning ASP.NET MVC.
 
