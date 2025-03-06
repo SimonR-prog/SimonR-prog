@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning ASP.NET MVC.
+
+- 📫 How to reach me: https://www.linkedin.com/in/simon-roll%C3%A9n-250a5232a/
+
+
+
+
+
 <!--
 **SimonR-prog/SimonR-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +19,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
