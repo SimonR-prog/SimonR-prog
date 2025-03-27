@@ -7,13 +7,6 @@ Named Simon. Currently learning more about webb-development to hopefully one day
 - 🌱 I’m currently learning ASP.NET MVC.
 - 📫 How to reach me: https://www.linkedin.com/in/simon-roll%C3%A9n-250a5232a/
 
-### Projects:
-
-Quiz app with 5 questions: (Ugly as shit, but it works..)
-
-https://github.com/SimonR-prog/QuizAppReact
-
-More coming.. 
 
 
 
