@@ -1,4 +1,4 @@
-## Yo. 
+## Ello. 
 
 Named Simon. Currently learning more about webb-development to hopefully one day be able to create the weird ideas I have.
 
