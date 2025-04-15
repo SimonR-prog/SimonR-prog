@@ -4,7 +4,9 @@ Named Simon. Currently learning more about webb-development to hopefully one day
 
 ### Bulletpoints: 
 
-- 🌱 I’m currently learning ASP.NET MVC.
+- 🌱 We are currently doing a course named ASP.NET 2 in which we are going to create alot of microservices which we then will utilize in a react project.
+
+
 - 📫 How to reach me: https://www.linkedin.com/in/simon-roll%C3%A9n-250a5232a/
 
 
