@@ -2,6 +2,14 @@
 
 Named Simon. Currently learning more about webb-development to hopefully one day be able to create the weird ideas I have.
 
+
+### Documentation: 
+
+Attempt at showing of documentation for a REST-API:
+
+https://github.com/AspnetGroupOne/EventScheduleService
+
+
 ### Bulletpoints: 
 
 - 🌱 We are currently doing a course named ASP.NET 2 in which we are going to create alot of microservices which we then will utilize in a react project.
