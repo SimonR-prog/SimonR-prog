@@ -3,11 +3,6 @@
 Named Simon. Currently learning more about webb-development to hopefully one day be able to create the weird ideas I have.
 
 
-### Documentation: 
-
-Attempt at showing of documentation for a REST-API:
-
-https://github.com/AspnetGroupOne/EventScheduleService
 
 
 ### Bulletpoints: 
