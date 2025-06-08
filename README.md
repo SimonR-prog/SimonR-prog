@@ -2,12 +2,14 @@
 
 Named Simon. Currently learning more about webb-development to hopefully one day be able to create the weird ideas I have.
 
+I just started this organization where I will start to add things that I have learned in seperate repositories to be able to refer back to them at a later time.
 
+https://github.com/SkyInkLearning
 
 
 ### Bulletpoints: 
 
-- 🌱 We are currently doing a course named ASP.NET 2 in which we are going to create alot of microservices which we then will utilize in a react project.
+- 🌱 We just finished a course named ASP.NET 2 in which we created alot of microservices which we then utilized in a react project in this organization: https://github.com/orgs/AspnetGroupOne/repositories
 
 
 - 📫 How to reach me: https://www.linkedin.com/in/simon-r-250a5232a/
