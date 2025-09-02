@@ -1,27 +1,20 @@
-## Ello. 
+## Hello. 
 
-
-
-### About me:
-```json
-{
-  "Name": "Simon"
-  "Age": 34
-  "Learning": "Web Development.NET"
-}
-```
-
-### Currently working on:
+## Currently working on:
 
 Currently working on a website where I can share images of stickers that I have taken on my walks around Stockholm. Going to be connected to a azure blob and a azure database for the text information.
 
-And I just started this organization where I will start to add things that I have learned in separate repositories to be able to refer back to them at a later time.
+### And I recently started this organization where I will start to add things that I have learned in separate repositories to be able to refer back to them at a later time.
 
 https://github.com/SkyInkLearning
 
-### Contact: 
+## Contact: 
 
 https://www.linkedin.com/in/simon-r-250a5232a/
+
+
+
+
 
 ## Random: 
 
