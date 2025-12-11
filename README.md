@@ -4,15 +4,16 @@
 
 ### In private: 
 
-Currently working on a website where I can share images of stickers that I have taken on my walks around Stockholm. Going to be connected to a azure blob and a azure database for the text information.
+I have just started a project where im making a website, for my brothers furniture store, in Umbraco. Still in the planning stage.
 
 ### At school:
 
-We are learning about CMS-systems, so we are currently learning about Umbraco and Optimizely.
+I just finished a course for CMS-development and am now interning at Avanoria where I am part of a group tasked with redesigning the backoffice of Umbraco and starting the backoffice for the company itself.
 
-In this repo I am gathering thoughts and code about optimizely so far. (Going to do the same with Umbraco)
+The result from the CMS-course:
 
-https://github.com/SkyInkLearning/Optimizely_Documentation
+https://github.com/SkyInkLearning/Umbraco_Echo_Group
+
 
 ## My organization.
 
